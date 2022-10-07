@@ -47,6 +47,7 @@
 
 <br><br>
 
+<h2 align="center">A little about me 😇</h2>
 
 - 🔭 I’m currently helping beginners in tech trying to find their way around it
 - 🌱 I’m currently learning How to be effective Agile Developer in order to collaborate and communicate well with other developers
