@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  ✨ I am a Fullstack Developer since 2020, passionate in learning and trying out new libraries or frameworks in Javascript. I have practical experience in Javascript, React, TypeScript, NodeJs, Express, Php, MongoDb, SQL, PostgreSQL, GIT </br>
+  ✨ I am a Fullstack Javascript Developer since 2020, passionate in learning and trying out new libraries or frameworks in Javascript. I have practical experience in Javascript, React, TypeScript, NodeJs, Express, Php, MongoDb, SQL, PostgreSQL, GIT </br>
 
   <h2>👇 Please feel free to connect with me 👇 </h2>
   <a href="https://twitter.com/AnuOderinlo" target="_blank"><img src="https://img.shields.io/badge/-Twitter-61DAFB?logo=react&logoColor=white&style=flat"/></a>
